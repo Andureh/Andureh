@@ -1,7 +1,7 @@
 # Hi, I'm André 👋
 
 Master's student in Quantum Computing, with a BSc in Physics and a minor in Computer Science.
-Interested in mathematics, physics, astrophysics and other nerdy things.
+Interested in mathematics, physics, astrophysics and other things.
 
 🏆 **Winner of the 2026 QEC Decoder Hackathon** (NQCP, Niels Bohr Institute), with an exact
 maximum-likelihood decoder for a qLDPC code, accelerated by a neural network.
